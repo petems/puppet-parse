@@ -19,6 +19,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "rake"
   gem.add_runtime_dependency "rdoc", ">=3.12", "<4.0"
   gem.add_runtime_dependency "facter"
+  gem.add_runtime_dependency "puppet"
 
 
 end
